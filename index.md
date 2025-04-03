@@ -1,6 +1,7 @@
-master code
+master
     master feature
     master feature - 2
+    master fix
     user-1
         feature
         feature-2
