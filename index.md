@@ -1,5 +1,6 @@
 master code
     master feature
+    master feature - 2
     user-1
         feature
         feature-2
