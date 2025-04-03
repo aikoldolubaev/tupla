@@ -5,4 +5,5 @@ master code
         feature-3
     user-2
         feature
-        feature-2        feature-3
+        feature-2        
+        feature-3
